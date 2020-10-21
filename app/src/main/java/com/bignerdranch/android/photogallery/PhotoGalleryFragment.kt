@@ -27,7 +27,7 @@ import java.util.concurrent.TimeUnit
 
 private const val TAG = "PhotoGalleryFragment"
 private const val POLL_WORK = "POLL_WORK"
-
+//comment append to practice androidstudio to github commit
 class PhotoGalleryFragment : VisibleFragment(){
     private lateinit var photoRecyclerView: RecyclerView
     private lateinit var photoGalleryViewModel: PhotoGalleryViewModel
